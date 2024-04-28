@@ -5,7 +5,6 @@ iNotebook is a web-based application designed to streamline your note-taking, ta
 ## Features
 
 - **Easy Note-Taking**: Quickly jot down thoughts and organize notes with tags and categories.
-- **Task Management**: Keep track of your to-dos with checklists and deadlines.
 - **Goal Tracking**: Set goals and monitor your progress.
 - **Cloud-Based**: Access your notes and tasks from any device, anywhere.
 - **Secure**: Your data is protected with state-of-the-art security measures.
